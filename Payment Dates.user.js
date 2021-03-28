@@ -7,6 +7,7 @@
 // @match        https://supportfund.ljmu.ac.uk/Admin/PaymentConfirmation?ApplicationID=*
 // @icon         https://www.google.com/s2/favicons?domain=ljmu.ac.uk
 // @grant        none
+// @license        MIT; https://github.com/TheLastZombie/userscripts/blob/master/LICENSE
 // ==/UserScript==
 
 (function() {
