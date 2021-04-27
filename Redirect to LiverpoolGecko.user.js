@@ -3,6 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.liverpoolecho.co.uk/news*
 // @match       https://www.liverpoolecho.co.uk/sport*
+// @match       https://www.liverpoolecho.co.uk/whats-on*
 // @grant       none
 // @version     1.0
 // @run-at      document-start
